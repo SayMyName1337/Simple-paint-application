@@ -1,0 +1,57 @@
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\bin\Debug\LR4.exe.config
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\bin\Debug\LR4.exe
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\bin\Debug\LR4.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\bin\Debug\OpenTK.dll
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\bin\Debug\OpenTK.GLControl.dll
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\bin\Debug\OpenTK.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\bin\Debug\OpenTK.xml
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\bin\Debug\OpenTK.GLControl.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\bin\Debug\OpenTK.GLControl.xml
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.csprojAssemblyReference.cache
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.Form1.resources
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.csproj.CopyComplete
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.exe
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.pdb
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.AboutBox.resources
+D:\Documents\Projects\Freelancehunt_Andrey\OpenGL_Labs\LR4\LR4\obj\Debug\LR4.Manual.resources
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\bin\Debug\LR4.exe.config
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\bin\Debug\LR4.exe
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\bin\Debug\LR4.pdb
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.dll
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.pdb
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.xml
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.AboutBox.resources
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.Form1.resources
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.Manual.resources
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.csproj.CopyComplete
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.exe
+C:\Users\Джордан\Desktop\MPEI\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.pdb
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\bin\Debug\LR4.exe.config
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\bin\Debug\LR4.exe
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\bin\Debug\LR4.pdb
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.dll
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.GLControl.dll
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.pdb
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.xml
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\bin\Debug\OpenTK.GLControl.xml
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.AboutBox.resources
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.Form1.resources
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.Manual.resources
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.csproj.Up2Date
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.exe
+C:\Users\SayMyName\Desktop\Графическое программирование\LR4\LR4\LR4\obj\Debug\LR4.pdb
